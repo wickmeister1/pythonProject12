@@ -1,2 +1,2 @@
 print("hello")
-print ("goodbye all")
+print ("goodbye to all that")
